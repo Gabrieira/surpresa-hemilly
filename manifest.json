@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel ❤ Hemilly",
+  "short_name": "G ❤ H",
+  "description": "Uma homenagem especial de Dia dos Namorados",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0408",
+  "theme_color": "#c42450",
+  "orientation": "portrait-primary",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
